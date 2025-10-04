@@ -1,4 +1,3 @@
 {
-  "api_base_url": "https://api-donwload-mqoi.onrender.com",
-  "token_api_url": "https://token-zgcn.onrender.com"
+  "api_base_url": "http://0.0.0.0:5000"
 }
